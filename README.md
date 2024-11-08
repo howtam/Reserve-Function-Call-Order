@@ -1,2 +1,2 @@
 # Reserve-Function-Order
-This structure connects consumer, producer and inbwteen functions together so that when a producer is called, the functions tat call it will be executed and so on to the relevant top consumers.
+This structure connects consumer, producer and in-between functions together so that when a bottom level producer is called, the functions that call it will be executed and so on up to the relevant top consumers.
